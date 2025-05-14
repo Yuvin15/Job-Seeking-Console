@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\InterviewQuestions\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|d:\\interviewquestions\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|d:\\interviewquestions\\consoleapp1\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|solutionrelative:response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|d:\\interviewquestions\\consoleapp1\\classes\\jobinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|solutionrelative:classes\\jobinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|d:\\interviewquestions\\consoleapp1\\classes\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|solutionrelative:classes\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|d:\\interviewquestions\\consoleapp1\\classes\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|solutionrelative:classes\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|d:\\interviewquestions\\consoleapp1\\classes\\jobdesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC1220E-6B32-46E3-9CBE-D2F8E959A194}|ConsoleApp1.csproj|solutionrelative:classes\\jobdesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 259,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobDesc.cs",
+              "DocumentMoniker": "D:\\InterviewQuestions\\ConsoleApp1\\Classes\\JobDesc.cs",
+              "RelativeDocumentMoniker": "Classes\\JobDesc.cs",
+              "ToolTip": "D:\\InterviewQuestions\\ConsoleApp1\\Classes\\JobDesc.cs",
+              "RelativeToolTip": "Classes\\JobDesc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:47:21.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\InterviewQuestions\\ConsoleApp1\\Classes\\Response.cs",
+              "RelativeDocumentMoniker": "Classes\\Response.cs",
+              "ToolTip": "D:\\InterviewQuestions\\ConsoleApp1\\Classes\\Response.cs",
+              "RelativeToolTip": "Classes\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:39:37.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parameters.cs",
+              "DocumentMoniker": "D:\\InterviewQuestions\\ConsoleApp1\\Classes\\Parameters.cs",
+              "RelativeDocumentMoniker": "Classes\\Parameters.cs",
+              "ToolTip": "D:\\InterviewQuestions\\ConsoleApp1\\Classes\\Parameters.cs",
+              "RelativeToolTip": "Classes\\Parameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:36:28.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\InterviewQuestions\\ConsoleApp1\\Response.cs",
+              "RelativeDocumentMoniker": "Response.cs",
+              "ToolTip": "D:\\InterviewQuestions\\ConsoleApp1\\Response.cs",
+              "RelativeToolTip": "Response.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:31:31.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobInfo.cs",
+              "DocumentMoniker": "D:\\InterviewQuestions\\ConsoleApp1\\Classes\\JobInfo.cs",
+              "RelativeDocumentMoniker": "Classes\\JobInfo.cs",
+              "ToolTip": "D:\\InterviewQuestions\\ConsoleApp1\\Classes\\JobInfo.cs",
+              "RelativeToolTip": "Classes\\JobInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:33:29.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\InterviewQuestions\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\InterviewQuestions\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwE4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:05:05.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 133,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
